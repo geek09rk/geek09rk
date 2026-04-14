@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=geek09rk.geek09rk)
 
-- I'm a Ph.D. Candidate in Bioinformatics and Computational Biology, with a strong background in molecular biology.
+- I'm a Postdoc Researcher in Bioinformatics and Computational Biology, with a strong background in molecular biology.
 - Experienced in implementation of computational approaches in various projects such as protein-protein interactions prediction, protein-ligand docking and simulations, and different NGS data analyses.
 - I primarily use bash and Python for data processing on HPC.
 - How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-kataria9)
